@@ -75,5 +75,3 @@ Include post ideas for each week with topics and hooks.
 - **Ask follow-up questions.** Your assistant remembers the whole conversation.
 
 ---
-
-*OpenClaw Workshop — selrai.com.au*
