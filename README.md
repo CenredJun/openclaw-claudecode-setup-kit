@@ -1,7 +1,5 @@
 # OpenClaw Workshop — AI Business Assistant Kit
 
-**Built by Selr AI — [selrai.com.au](https://selrai.com.au)**
-
 > Give your business an AI assistant that remembers who you are, learns your business, and gets smarter every time you use it — without writing a single line of code.
 
 ---
@@ -81,7 +79,7 @@ Your assistant handles it all conversationally, one step at a time. No scripts t
 
 Skills are specialist capabilities your assistant can use. Think of them like switching your assistant from "general helper" to "expert copywriter", "market researcher", "DevOps engineer", or "product strategist" for a specific task.
 
-This kit includes the full professional skill library — the same depth used to power Selr AI's infrastructure. See [docs/SKILLS-REFERENCE.md](docs/SKILLS-REFERENCE.md) for descriptions of every skill, and [docs/BOOTSTRAP.md](docs/BOOTSTRAP.md) for the version-controlled bootstrap prompt.
+This kit includes the full professional skill library. See [docs/SKILLS-REFERENCE.md](docs/SKILLS-REFERENCE.md) for descriptions of every skill, and [docs/BOOTSTRAP.md](docs/BOOTSTRAP.md) for the version-controlled bootstrap prompt.
 
 **Marketing & Content**
 
@@ -243,11 +241,8 @@ Your assistant is now yours. A few things to explore next:
 - **Create all accounts** — see [docs/ACCOUNTS-AND-LOGINS.md](docs/ACCOUNTS-AND-LOGINS.md)
 - **Add Google Workspace (Gmail + Calendar + Drive + More)** — see [docs/GOOGLE-WORKSPACE-SETUP.md](docs/GOOGLE-WORKSPACE-SETUP.md)
 - **Add Telegram and/or WhatsApp** (message your assistant from your phone) — see [docs/TELEGRAM-SETUP.md](docs/TELEGRAM-SETUP.md)
-- **Upgrade your skills** — Selr AI offers advanced skill packs for deeper automation
 
 Full guide: [docs/COMPLETION-GUIDE.md](docs/COMPLETION-GUIDE.md)
-
----
 
 ---
 
@@ -274,7 +269,7 @@ See [DEVELOPER.md](DEVELOPER.md).
 
 - Workshop guides: [`docs/`](docs/)
 - Windows guide: [`docs/WINDOWS-SETUP.md`](docs/WINDOWS-SETUP.md)
-- Selr AI: [selrai.com.au](https://selrai.com.au)
+
 ---
 
-OpenClaw Workshop Kit — Built by Selr AI
+OpenClaw Workshop Kit
