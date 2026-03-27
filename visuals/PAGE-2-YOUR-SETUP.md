@@ -142,5 +142,3 @@ When you run `cd ~/my-assistant && claude` for the first time, your assistant wi
 Every session after that, it already knows who you are. No re-explaining needed.
 
 ---
-
-*OpenClaw Workshop — selrai.com.au*
