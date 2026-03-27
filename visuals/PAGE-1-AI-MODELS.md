@@ -62,7 +62,7 @@ AI (Artificial Intelligence) is software that can think, reason, write, and lear
 │      └── AI workers that run automatically 24/7                  │
 │          Find leads, follow up clients, track finances           │
 │          Send you phone notifications when decisions needed      │
-│          This is what Selr AI runs for its own business          │
+│                                                                   │
 │                                                                   │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -116,5 +116,3 @@ Answering questions instantly
 Your AI assistant already knows your business after setup — so you need far less context than starting from scratch every time.
 
 ---
-
-*OpenClaw Workshop — selrai.com.au*
