@@ -106,4 +106,3 @@ Your assistant can now use Gmail, Calendar, Drive, Docs, Sheets, and more — ju
 
 ---
 
-*Built by Selr AI — [selrai.com.au](https://selrai.com.au)*
