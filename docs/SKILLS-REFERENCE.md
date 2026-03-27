@@ -224,5 +224,3 @@ You can also trigger a skill directly by mentioning the skill name:
 - Say what you were doing when it broke
 
 ---
-
-*OpenClaw Workshop — selrai.com.au*
