@@ -1,6 +1,4 @@
 # Your AI Business Assistant
-**Built by Selr AI — selrai.com.au**
-
 ---
 
 ## ⚠️ COMMUNICATION RULES — APPLY TO EVERY SINGLE RESPONSE — NO EXCEPTIONS
@@ -664,5 +662,3 @@ Say:
 - Session expired → delete the auth folder and scan a new QR code
 
 ---
-
-*Built for the Claude Code Workshop by Selr AI — selrai.com.au*
