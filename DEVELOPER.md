@@ -1,6 +1,6 @@
 # Developer Notes — OpenClaw Workshop Kit
 
-**Repo:** https://github.com/luke-selrai/openclaw-workshop-kit
+**Repo:** https://github.com/CenredJun/openclaw-claudecode-setup-kit
 **Contact:** Workshop facilitator — see your team contacts
 **Workshop:** [DATE TBD], non-technical business owners, 3 hours
 
