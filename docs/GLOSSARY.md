@@ -79,5 +79,3 @@ A free app made by Microsoft. It is where you will chat with your AI assistant, 
 A way for one app to notify another app when something happens. "When a new lead comes in, send me a Telegram message." Your assistant can set these up for you.
 
 ---
-
-*OpenClaw Workshop — selrai.com.au*
