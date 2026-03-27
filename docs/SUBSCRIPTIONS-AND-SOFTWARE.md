@@ -101,5 +101,3 @@ Right now your assistant only runs when your laptop is open. A server lets it ru
 - Replaces 10–20 hours of admin and content work per month
 
 ---
-
-*OpenClaw Workshop — selrai.com.au*
