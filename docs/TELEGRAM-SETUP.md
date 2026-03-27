@@ -145,5 +145,3 @@ Your assistant should reply directly in Telegram. You can now message your assis
 | Photos not being read by assistant | Send the photo as a file (long-press → Send as File) for full quality |
 
 ---
-
-*Built by Selr AI — [selrai.com.au](https://selrai.com.au)*
