@@ -89,7 +89,7 @@ Your AI assistant can send you phone notifications when it finishes tasks or nee
 You will run this command at the workshop. It downloads everything automatically:
 
 ```bash
-git clone https://github.com/luke-selrai/openclaw-workshop-kit.git ~/workshop-kit
+git clone https://github.com/CenredJun/openclaw-claudecode-setup-kit
 ```
 
 No GitHub login required to download — the repo is public.
@@ -177,4 +177,3 @@ A password manager (like 1Password or the built-in Apple/Google one) is the best
 
 ---
 
-*OpenClaw Workshop — selrai.com.au*
