@@ -199,10 +199,10 @@ n8n is a visual automation tool (like Zapier, but you own it). Your AI assistant
 - "Every Monday, pull my sales numbers and email me a summary"
 
 ### Your Own Agents
-Once you see the value of AI in your business, you can deploy your own agents that run 24/7. Luke and the Selr AI team can set this up for you.
+Once you see the value of AI in your business, you can deploy your own agents that run 24/7.
 
 ### Voice Interface
-You can talk to your AI assistant instead of typing, using tools like Wispr Flow (what Luke uses).
+You can talk to your AI assistant instead of typing, using tools like Wispr Flow.
 
 ---
 
@@ -210,8 +210,7 @@ You can talk to your AI assistant instead of typing, using tools like Wispr Flow
 
 - **Workshop resources:** All documents in `~/workshop-kit/docs/`
 - **Skills reference:** `~/workshop-kit/skills/SKILLS-LIST.md`
-- **Luke / Selr AI:** selrai.com.au
 
 ---
 
-*Built for the OpenClaw Workshop by Selr AI — selrai.com.au*
+*Built for the OpenClaw Workshop*
