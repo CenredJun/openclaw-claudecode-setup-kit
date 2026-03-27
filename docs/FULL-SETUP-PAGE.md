@@ -155,13 +155,13 @@ Node.js is needed to connect Gmail, Calendar, browser automation, and Telegram l
 ### The Setup Prompt — Copy Everything Below
 
 ```
-I am setting up my Claude Code AI Business Assistant with Selr AI.
+I am setting up my Claude Code AI Business Assistant.
 
 Do these steps one at a time, telling me what you are doing in plain English.
 Use the correct commands for my operating system (detect whether I am on Mac or Windows).
 
 1. Download the workshop content by running:
-   git clone https://github.com/luke-selrai/openclaw-workshop-kit.git ~/workshop-kit
+   git clone https://github.com/CenredJun/openclaw-claudecode-setup-kit ~/workshop-kit
 
    NOTE: On Mac, if a popup appears asking to install developer tools,
    tell me to click "Install" and wait a few minutes before continuing.
@@ -426,13 +426,11 @@ Remotion video, retrospectives, feature manifest, sales automator, technical wri
 
 | Resource | Link |
 |---|---|
-| Workshop Kit (GitHub) | [github.com/luke-selrai/openclaw-workshop-kit](https://github.com/luke-selrai/openclaw-workshop-kit) |
+| Workshop Kit (GitHub) | [github.com/CenredJun/openclaw-claudecode-setup-kit](https://github.com/CenredJun/openclaw-claudecode-setup-kit) |
 | Claude.ai | [claude.ai](https://claude.ai) |
 | VS Code | [code.visualstudio.com](https://code.visualstudio.com) |
 | Git for Windows | [git-scm.com/download/win](https://git-scm.com/download/win) |
 | Node.js | [nodejs.org](https://nodejs.org) |
-| Selr AI | [selrai.com.au](https://selrai.com.au) |
-| Email Luke | [luke@selrai.com.au](mailto:luke@selrai.com.au) |
 
 ---
 
@@ -450,10 +448,10 @@ Remotion video, retrospectives, feature manifest, sales automator, technical wri
 | Google connected to wrong account | Run `gws auth logout` then `gws auth login` and select the correct account |
 | Node.js "command not found" | Restart VS Code completely, or reinstall from [nodejs.org](https://nodejs.org) |
 | Telegram bot not responding | Make sure Claude Code is running with `--channels plugin:telegram@claude-plugins-official`. See [TELEGRAM-SETUP.md](TELEGRAM-SETUP.md) |
-| Something else | Contact Luke at [luke@selrai.com.au](mailto:luke@selrai.com.au) |
+| Something else | Describe what happened to your assistant in plain English and it will help you fix it |
 
 Your assistant is designed to handle problems too — just describe what happened in plain English and it will figure it out.
 
 ---
 
-*Built by Selr AI — [selrai.com.au](https://selrai.com.au)*
+*Built for the OpenClaw Workshop*
