@@ -76,11 +76,3 @@ If you see a version number, you are done. If you see an error like `'git' is no
 | Git installed in a different location | If you changed the install location, use that path instead of `C:\Program Files\Git\cmd` |
 
 ---
-
-## Need Help?
-
-Email **luke@selrai.com.au** before the workshop if anything does not work.
-
----
-
-*OpenClaw Workshop — selrai.com.au*
