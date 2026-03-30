@@ -3,7 +3,6 @@
 ---
 
 ## The Complete Picture
-
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                        YOUR AI BUSINESS ECOSYSTEM                            │
@@ -51,7 +50,6 @@
 
 ### CLI Tools — Programs On Your Computer
 Installed once, available forever. Claude uses them by typing commands.
-
 ```
 git       → Downloads files and tracks changes
 node      → Runs programs (Claude Code needs this)
@@ -66,7 +64,6 @@ npm       → An app store for installing other tools
 
 ### MCP Tools — Live Connections to Your Apps
 Claude gets login access to your apps. Can read, write, and act in real time.
-
 ```
 Gmail MCP         → Reads your emails, searches inbox, drafts replies
 Google Calendar   → Reads schedule, finds free time, creates events
@@ -82,7 +79,6 @@ Slack             → Reads and sends messages
 
 ### Business APIs — Direct Lines to Services
 Claude connects directly to services through their official programming interface.
-
 ```
 Stripe API    → Check revenue, subscriptions, failed payments
 GHL CRM API   → Manage contacts, send messages, update deals
@@ -96,7 +92,6 @@ Any service   → If it has an API, Claude can connect to it
 ---
 
 ## What "Connecting" a Tool Means
-
 ```
 1. Install the tool           →    npm install -g @googleworkspace/cli
 2. Sign in                    →    gws auth login (browser opens, click "Allow")
@@ -130,7 +125,6 @@ Any service   → If it has an API, Claude can connect to it
 ---
 
 ## What This All Makes Possible
-
 ```
 TODAY — with what you have set up:
   → Research any topic in depth
@@ -151,7 +145,7 @@ IN 90 DAYS — with automation set up:
   → Invoices scanned and filed automatically
   → Weekly summaries sent to your phone every Monday
 
-LEVEL 4 — what Selr AI can build for you:
+LEVEL 4 — full agent team:
   → A full team of AI agents running your business
   → Each agent specialised in one area of your operations
   → You receive decisions, not task lists
@@ -184,10 +178,9 @@ You just did. You set it up today. The hard part is done.
 - **Full guide:** `~/workshop-kit/docs/COMPLETION-GUIDE.md`
 - **Windows guide:** `~/workshop-kit/docs/WINDOWS-SETUP.md`
 - **Skills reference:** `~/workshop-kit/docs/SKILLS-REFERENCE.md`
-- **Selr AI:** selrai.com.au
 
 > The best way to learn is to just try things. Ask Claude to do something for your business right now. You can't break anything that can't be fixed in 30 seconds.
 
 ---
 
-*OpenClaw Workshop — selrai.com.au*
+*OpenClaw Workshop*
