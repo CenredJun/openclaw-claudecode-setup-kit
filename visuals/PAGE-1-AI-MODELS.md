@@ -45,25 +45,25 @@ AI (Artificial Intelligence) is software that can think, reason, write, and lear
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   1. CLAUDE.AI (website)                                         │
-│      └── Chat with Claude in your browser                        │
-│          Like texting a brilliant friend                         │
-│          Resets after every chat — no memory                     │
-│                                                                   │
-│   2. CLAUDE CODE (what we're setting up today)                   │
-│      └── Claude runs ON your computer                            │
-│          Remembers your business permanently                     │
-│          Controls your browser, files, and apps                  │
-│          Connects to Gmail, Calendar, CRM, and more              │
-│          86 specialist skills built in                           │
-│                                                                   │
-│   3. SERVER AGENTS (the advanced level — see Page 3)             │
-│      └── AI workers that run automatically 24/7                  │
-│          Find leads, follow up clients, track finances           │
-│          Send you phone notifications when decisions needed      │
-│          This is what Selr AI runs for its own business          │
-│                                                                   │
+│                                                                 │
+│   1. CLAUDE.AI (website)                                        │
+│      └── Chat with Claude in your browser                       │
+│          Like texting a brilliant friend                        │
+│          Resets after every chat — no memory                    │
+│                                                                 │
+│   2. CLAUDE CODE (what we're setting up today)                  │
+│      └── Claude runs ON your computer                           │
+│          Remembers your business permanently                    │
+│          Controls your browser, files, and apps                 │
+│          Connects to Gmail, Calendar, CRM, and more             │
+│          86 specialist skills built in                          │
+│                                                                 │
+│   3. SERVER AGENTS (the advanced level — see Page 3)            │
+│      └── AI workers that run automatically 24/7                 │
+│          Find leads, follow up clients, track finances          │
+│          Send you phone notifications when decisions needed     │
+│                                                                 │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -116,5 +116,3 @@ Answering questions instantly
 Your AI assistant already knows your business after setup — so you need far less context than starting from scratch every time.
 
 ---
-
-*OpenClaw Workshop — selrai.com.au*
