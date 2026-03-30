@@ -5,7 +5,6 @@
 ## What Are Skills?
 
 Skills are specialist training programs that give Claude deep expertise in a specific area. Without skills, Claude gives you generic answers. With skills, it performs at the level of a trained professional.
-
 ```
 WITHOUT SKILLS                    WITH SKILLS
 ─────────────────                 ──────────────────────────────────
@@ -23,7 +22,6 @@ Result: Forgettable               Result: Emails people actually reply to
 ## Your 86 Installed Skills
 
 Organised by what they do for your business:
-
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    YOUR SKILLS LIBRARY                           │
@@ -66,7 +64,6 @@ Organised by what they do for your business:
 ---
 
 ## The Levels of AI in Your Business
-
 ```
 LEVEL 1 — YOU DRIVE (where you start today)
 ─────────────────────────────────────────────
@@ -83,7 +80,7 @@ LEVEL 3 — AI AUTOMATES (60-90 days)
   You set up a process → Claude runs it → Alerts you when done
   Like: Every Monday, research top industry news and send a summary
 
-LEVEL 4 — AI RUNS THE SYSTEM (what Selr AI runs)
+LEVEL 4 — AI RUNS THE SYSTEM
 ─────────────────────────────────────────────────
   Multiple AI agents work 24/7 on your business automatically
   You get phone notifications only when a decision is needed
@@ -91,13 +88,12 @@ LEVEL 4 — AI RUNS THE SYSTEM (what Selr AI runs)
 
 ---
 
-## Level 4 in Action — Selr AI's Agent Team
+## Level 4 in Action — Agent Team
 
 This is what Luke has built for his own business using the same tools you're setting up today.
-
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    SELR AI — AGENT TEAM                          │
+│                       AGENT TEAM                                 │
 │                  Runs 24/7 on a cloud server                    │
 │                                                                   │
 │  Harry (Lead Hunter)    ──▶  Finds new prospects daily          │
@@ -145,7 +141,6 @@ This is what Luke has built for his own business using the same tools you're set
 ## How Phone Notifications Connect It All
 
 Telegram and WhatsApp are free messaging apps. Your AI can send reports, alerts, and task completions directly to your phone. You can use one or both.
-
 ```
 Agent finishes a task or finds something important
         │
@@ -167,7 +162,6 @@ You stay in control. AI does the work. You make the calls.
 ---
 
 ## Your Roadmap
-
 ```
 TODAY (Workshop)
   ✅ Claude Code set up on your laptop
@@ -188,11 +182,11 @@ TODAY (Workshop)
   → Lead follow-up partially automated
   → Seriously ahead of your competitors
 
-LEVEL 4 (Selr AI can build this for you)
+LEVEL 4 (can build this for you)
   → Full agent team on your server
   → Business running while you sleep
 ```
 
 ---
 
-*OpenClaw Workshop — selrai.com.au*
+*OpenClaw Workshop*
